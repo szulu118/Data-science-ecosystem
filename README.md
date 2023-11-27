@@ -38,7 +38,7 @@
    ]
   },
   {
-   "cell_type": "code",
+   "cell_type": "markdown",
    "execution_count": null,
    "metadata": {
     "tags": []
